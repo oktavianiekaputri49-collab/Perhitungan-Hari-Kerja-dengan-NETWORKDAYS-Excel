@@ -1,0 +1,31 @@
+📊 Perhitungan Hari Kerja dengan NETWORKDAYS di Excel
+Deskripsi
+Proyek ini berfokus pada perhitungan jumlah hari kerja antara dua tanggal menggunakan Microsoft Excel dengan fungsi NETWORKDAYS.
+
+Dataset
+Data terdiri dari:
+- Tanggal awal
+- Tanggal akhir
+- Hari kerja
+- Daftar tanggal merah dan cuti
+
+Tools & Fungsi yang Digunakan
+- Microsoft Excel
+- Fungsi NETWORKDAYS
+- Absolute reference (F4)
+
+Hasil
+- Jumlah hari kerja dihitung secara otomatis
+- Tanggal merah dan cuti tidak dihitung sebagai hari kerja
+- Hasil lebih akurat dan sesuai kondisi nyata
+
+Tujuan Proyek
+- Memahami penggunaan fungsi NETWORKDAYS
+- Melatih pengolahan data tanggal di Excel
+- Mengelola perhitungan hari kerja secara efisien
+
+Insight
+Fungsi NETWORKDAYS sangat berguna untuk menghitung hari kerja dengan mempertimbangkan hari libur sehingga lebih relevan untuk kebutuhan operasional.
+
+Penutup
+Proyek ini merupakan latihan dalam pengolahan data waktu dan perhitungan hari kerja menggunakan Excel.
